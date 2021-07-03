@@ -1,0 +1,10 @@
+C:\Users\IUSUARIOI\source\repos\evaluacion2\bin\Debug\evaluacion2.exe.config
+C:\Users\IUSUARIOI\source\repos\evaluacion2\bin\Debug\evaluacion2.exe
+C:\Users\IUSUARIOI\source\repos\evaluacion2\bin\Debug\evaluacion2.pdb
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.csproj.AssemblyReference.cache
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.Form1.resources
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.Properties.Resources.resources
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.csproj.GenerateResource.cache
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.csproj.CoreCompileInputs.cache
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.exe
+C:\Users\IUSUARIOI\source\repos\evaluacion2\obj\Debug\evaluacion2.pdb
